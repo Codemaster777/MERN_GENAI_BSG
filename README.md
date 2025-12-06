@@ -1,7 +1,5 @@
 # Smart Recipe Explorer - MERN Assignment
 
-This full-stack application was developed for the MERN Stack Intern assessment. The objective was to create a recipe manager where dishes can be searched and cooking instructions simplified using Generative AI.
-
 The **MERN stack** (MongoDB, Express, React, Node.js) was utilized for the core structure, and **Google's Gemini AI** was integrated to provide smart features.
 
 ## Project Features
