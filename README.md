@@ -8,7 +8,7 @@ I used the **MERN stack** (MongoDB, Express, React, Node.js) for the core struct
 
 *   **Search & Filter:** You can search for recipes by name or ingredient. I also added dropdowns to filter by Cuisine (like Indian, Italian) and dietary preference (Veg/Non-veg).
 *   **AI Integration:** The coolest part of the app. If a recipe looks too complicated, there's a "Simplify with AI" button. It sends the instructions to Google Gemini and returns a short, beginner-friendly summary.
-*   **Recipe Details:** Shows everything you need—ingredients, prep time, difficulty level, and tags.
+*   **Recipe Details:** Shows everything you need: ingredients, prep time, difficulty level, and tags.
 *   **Backend:** Built with Node.js and Express. It connects to MongoDB Atlas for storage.
 
 ## Tech Stack Used
