@@ -1,0 +1,8 @@
+.container { max-width: 900px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif; }
+.card { border: 1px solid #ddd; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.filters { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+input, select, button { padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
+button { background-color: #007bff; color: white; border: none; cursor: pointer; }
+button:hover { background-color: #0056b3; }
+.ai-box { background-color: #131415; padding: 15px; margin-top: 20px; border-left: 5px solid #007bff; border-radius: 4px; }
+.tag { background: #0c0c0c; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; margin-right: 5px; }
