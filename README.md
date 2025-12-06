@@ -88,9 +88,3 @@ The backend can be tested using Postman via the following endpoints:
 *   **POST** `http://localhost:5000/api/recipes/ai-assist`
     *   Body: `{ "recipeId": "your_recipe_id_here" }`
     *   Triggers the AI summary generation.
-
----
-
-## Submission Notes
-*   A `.gitignore` file has been included; therefore, `node_modules` and `.env` files are excluded from the repository.
-*   API keys must be added to the `.env` file for the application to function correctly.
